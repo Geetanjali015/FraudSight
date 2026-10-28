@@ -1,4 +1,4 @@
-# UPI Transaction Risk Intelligence Platform
+# FraudSight - UPI Transaction Risk Intelligence Platform
 
 FraudSight has been upgraded from a notebook-style binary fraud classifier into a production-inspired fintech risk decisioning project. It now scores UPI transactions on a 0-100 risk scale, explains the drivers behind each score, profiles risky users and merchants, and exposes both a Streamlit fraud operations center and FastAPI scoring APIs.
 
